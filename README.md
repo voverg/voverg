@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @voverg
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html, css, javascript, vue.js, python
+- 🌱 I’m currently learning html, css, javascript, react.js, python
 - 📫 How to reach me: voverg81@mail.ru (e-mail), [Vkontakte](https://vk.com/vovkaproger)
